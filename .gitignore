@@ -1,0 +1,18 @@
+# Claude Code local settings
+.claude/settings.local.json
+.claude/worktrees/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ML artifacts
+mlruns/
+*.png
+ai4i2020_clean.csv
+
+# IDE
+.vscode/
+.idea/
