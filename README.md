@@ -2,6 +2,8 @@
 
 Welcome to the **ML-LIFECYCLE** repository! This project encapsulates an autonomous, agentic skill designed to orchestrate an end-to-end Machine Learning pipeline. From raw data ingestion to production deployment, it seamlessly guides you through a complete lifecycle with fully integrated MLOps practices.
 
+
+# YOU CAN TAKE IT BY:   npx skills add https://lnkd.in/eDJGthth --skill ML-LIFECYCLE
 ---
 
 ## 📖 Overview
